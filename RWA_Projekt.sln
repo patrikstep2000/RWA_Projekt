@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RWALib", "RWALib\RWALib.csproj", "{452FF6D7-4DED-4F4F-9668-609421D4F343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminSite", "AdminSite\AdminSite.csproj", "{958C3D13-7227-4FAF-8EE5-DF797573EB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserSite", "UserSite\UserSite.csproj", "{DFB654A6-F483-4DFA-A215-6F92D7B78B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452FF6D7-4DED-4F4F-9668-609421D4F343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452FF6D7-4DED-4F4F-9668-609421D4F343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452FF6D7-4DED-4F4F-9668-609421D4F343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452FF6D7-4DED-4F4F-9668-609421D4F343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958C3D13-7227-4FAF-8EE5-DF797573EB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958C3D13-7227-4FAF-8EE5-DF797573EB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958C3D13-7227-4FAF-8EE5-DF797573EB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958C3D13-7227-4FAF-8EE5-DF797573EB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB654A6-F483-4DFA-A215-6F92D7B78B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB654A6-F483-4DFA-A215-6F92D7B78B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB654A6-F483-4DFA-A215-6F92D7B78B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB654A6-F483-4DFA-A215-6F92D7B78B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5566F5B4-D704-4052-9FD3-198C08642F82}
+	EndGlobalSection
+EndGlobal
